@@ -18,7 +18,7 @@ This **HR Analytics Dashboard** provides insights into employee attendance, work
 - Employees with **higher leave counts** may require further analysis for workload balance and HR interventions.
 
 ## Dataset & Resources 📂
-- **Dataset:** [Attendance Sheet 2022-2023 (Excel)](your_dataset_link_here)
+- **Dataset:** [Attendance Sheet 2022-2023 (Excel)](https://github.com/tanshigarg/HR-Analytics/blob/6037da85f3513ed08fe4ecd58d40ac9a4ef2256b/Attendance%20Sheet%202022-2023_Masked.xlsx)
 - **Power BI Dashboard:** [HR Analytics Dashboard (PBIX)](your_powerbi_file_link_here)
 
 ## Dashboard Screenshot 🖼️
