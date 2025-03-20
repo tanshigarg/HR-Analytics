@@ -19,7 +19,7 @@ This **HR Analytics Dashboard** provides insights into employee attendance, work
 
 ## Dataset & Resources 📂
 - **Dataset:** [Attendance Sheet 2022-2023 (Excel)](https://github.com/tanshigarg/HR-Analytics/blob/6037da85f3513ed08fe4ecd58d40ac9a4ef2256b/Attendance%20Sheet%202022-2023_Masked.xlsx)
-- **Power BI Dashboard:** [HR Analytics Dashboard (PBIX)](your_powerbi_file_link_here)
+- **Power BI Project:** [HR Analytics (PBIX)](https://github.com/tanshigarg/HR-Analytics/blob/dc24bee46b3f733e6e4b783767062da4cf013f6c/Hr%20Analytics%20Project.pbix)
 
 ## Dashboard Screenshot 🖼️
 ![HR Analytics Dashboard](your_dashboard_image_link_here)
