@@ -22,7 +22,7 @@ This **HR Analytics Dashboard** provides insights into employee attendance, work
 - **Power BI Project:** [HR Analytics (PBIX)](https://github.com/tanshigarg/HR-Analytics/blob/dc24bee46b3f733e6e4b783767062da4cf013f6c/Hr%20Analytics%20Project.pbix)
 
 ## Dashboard Screenshot 🖼️
-![HR Analytics Dashboard](your_dashboard_image_link_here)
+![HR Analytics Dashboard](https://github.com/tanshigarg/HR-Analytics/blob/b2d64ccd9f99f6cf935ce2a2d57472c4f560bcfe/Dashboard%20.png)
 
 ---
 
